@@ -1,0 +1,27 @@
+{
+  "name": "squarespace-friendly-selectors",
+  "version": "0.8.0",
+  "description": "Add class names on Squerespace generated HTML elements using the Control Panel - Squarespace 7. \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~Add class names on generated HTML elements, from the Control Panel - Squarespace 7. \u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorcamarian/squarespace-friendly-selectors.git"
+  },
+  "keywords": [
+    "squarespace",
+    "classes",
+    "dom",
+    "css",
+    "selectors",
+    "javascript"
+  ],
+  "author": "Sorca Marian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorcamarian/squarespace-friendly-selectors/issues"
+  },
+  "homepage": "https://github.com/sorcamarian/squarespace-friendly-selectors#readme"
+}
