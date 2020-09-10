@@ -4,9 +4,6 @@
 // Make elements more CSS friendly - Squarespace - display only in control pannel
 // Make elements more CSS friendly - Squarespace - display only in control pannel
 /*
-
-
-
 /*
 // Class - In front of
 // Class - In front of
@@ -71,4 +68,25 @@ body.sqs-edit-mode .css-helpers-class-to-parent-parent-element:after{
   display: block;
   color : #fff;
   content: " " attr(data-message-in-control-panel) "  " attr(data-class-to-parent-parent-element) " ";
+}
+
+
+/*
+// Make elements more CSS friendly - Class to Parent-SECTION - Squarespace
+// Make elements more CSS friendly - Class to Parent-SECTION - Squarespace
+// Make elements more CSS friendly - Class to Parent-SECTION - Squarespace
+// Make elements more CSS friendly - Class to Parent-SECTION - Squarespace
+// Make elements more CSS friendly - Class to Parent-SECTION - Squarespace
+*/
+body:not(.sqs-edit-mode) .css-helpers,
+body:not(.sqs-edit-mode) div[id^=class-to-parent-section-] {
+  display: none!important;
+}
+body.sqs-edit-mode .css-helpers-class-to-parent-section-element:after {
+  padding: 10px 15px;
+  text-align: center;
+  background: orange;
+  display: block;
+  color : #fff;
+  content: " " attr(data-message-in-control-panel) "  " attr(data-class-to-parent-section-element) " ";
 }
