@@ -1,4 +1,8 @@
-# squarespace-friendly-selectors
+# Squarespace Friendly Selectors
+
+# YouTube video https://www.youtube.com/watch?v=tbqDAa6C-PQ
+
+
 ## Squarespace 7 doesn't allow classes on its generated HTML elements
 It's great for reusable components.
 
