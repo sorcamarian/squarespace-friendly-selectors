@@ -1,6 +1,10 @@
 # Squarespace Friendly Selectors
 
-# YouTube video https://www.youtube.com/watch?v=tbqDAa6C-PQ
+# YouTube tutorial https://www.youtube.com/watch?v=tbqDAa6C-PQ
+
+## Example of site developed with this: https://www.youtube.com/watch?v=Iq5YbGxBEAk. 
+Website: https://www.queenannepainting.com/
+
 
 
 ## Squarespace 7 doesn't allow classes on its generated HTML elements
